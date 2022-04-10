@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2F7D8e7CD24EBcADad390ab0DAc3AAC706494A2E",
+  "SCAN_LINK": "https://polygonscan.com/address/0x1cc52813289b089047d0a8a45a85d30ea12eedad",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Gangsta Turtle Club",
+  "SYMBOL": "GTC",
+  "MAX_SUPPLY": 1111,
+  "WEI_COST": 11600000000000000000,
+  "DISPLAY_COST": 0.002,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/ganstaturtleclub",
+  "SHOW_BACKGROUND": true
+}
